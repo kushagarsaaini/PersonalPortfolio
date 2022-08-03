@@ -1,0 +1,20 @@
+body {
+  background-color: #00d7ff;
+}
+
+img {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.navbar {
+  background-color: aliceblue;
+}
+.navbar ul {
+  overflow: auto;
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  padding: 8px 8px;
+}
